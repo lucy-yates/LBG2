@@ -6,3 +6,5 @@
 
 !.gitignore  
 # Exclude .gitignore from that. (We want .gitignore)
+
+Andrew*.txt
