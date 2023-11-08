@@ -1,1 +1,8 @@
+# Ignores this folder and all contents
 /Logs/
+           
+# Every files that starts with a dot
+.*
+
+!.gitignore  
+# Exclude .gitignore from that. (We want .gitignore)
